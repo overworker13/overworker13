@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 My name is Darkhan, and I am a web developer from Almaty, Kazakhstan. I have completed a bachelor's degree in Computer Engineering and Software. In addition to my university education, I have taken courses in frontend development.
 
-Currently, I am actively expanding my horizons by exploring new technologies within the scope of the course I have completed. My experience and efforts are focused on seeking opportunities to apply my skills. Previously, I have experimented in various domains. In the realm of game development, I have used C# and Unity (2D/3D), and I have also taken on the role of a backend developer, employing PHP and SQL. 
-
-Furthermore, as part of my diploma project, I developed an application for facial recognition using machine learning. This project required me to study and utilize technologies such as Python, OpenCV, TensorFlow, and Kivy.
+Currently, I am actively expanding my horizons by exploring new technologies within the scope of the course I have completed. My experience and efforts are focused on seeking opportunities to apply my skills. Previously, I have experimented in various domains. In the realm of game development, I have used C# and Unity (2D/3D), and I have also taken on the role of a backend developer, employing PHP and SQL. Furthermore, as part of my diploma project, I developed an application for facial recognition using machine learning and Python, OpenCV, TensorFlow, Kivy.
 
 Currently, I am in pursuit of employment where I can not only make a contribution but also continue to evolve, applying the accumulated knowledge and skills. Although I have limited experience, I am determined to grow and develop.
 
