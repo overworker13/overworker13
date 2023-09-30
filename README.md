@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## About me:
 
-My name is Darkhan, and I am a novice web developer from Almaty, Kazakhstan. I'm 21 years old and have completed a bachelor's degree in Computer Engineering and Software. In addition to my university education, I have taken courses in frontend development at Skillbox under the "SkillBox - Profession: Frontend Developer PRO" program.
+My name is Darkhan, and I am a web developer from Almaty, Kazakhstan. I have completed a bachelor's degree in Computer Engineering and Software. In addition to my university education, I have taken courses in frontend development.
 
 Currently, I am actively expanding my horizons by exploring new technologies within the scope of the course I have completed. My experience and efforts are focused on seeking opportunities to apply my skills. Previously, I have experimented in various domains. In the realm of game development, I have used C# and Unity (2D/3D), and I have also taken on the role of a backend developer, employing PHP and SQL. 
 
