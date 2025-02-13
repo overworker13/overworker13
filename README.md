@@ -44,7 +44,7 @@
 
 ###
 
-<table>
+<table align="center">
   <tr>
     <th>Date</th>
     <th>Course name</th>
