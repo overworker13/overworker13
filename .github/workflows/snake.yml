@@ -31,4 +31,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN:  "6YslzAj63DdG23u7OooprlwUXWFgIh3pFPgy"
+          GITHUB_TOKEN:  "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"
