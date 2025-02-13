@@ -103,7 +103,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/overworker13/overworker13/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/overworker13/overworker13/Snake.svg" alt="Snake animation" />
 
 ###
 
