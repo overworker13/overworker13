@@ -6,7 +6,7 @@
 
 ###
 
-<p align="right">If a problem can be solved, there is no need to worry about it. If it cannot be solved, then worrying is useless.</p>
+<h3 align="right">If a problem can be solved, there is no need to worry about it. If it cannot be solved, then worrying is useless.</h3>
 
 ###
 
@@ -41,6 +41,44 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" alt="unity logo"  />
 </div>
+
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Course name</th>
+    <th>Company</th>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>SkillBox - Профессия Frontend-разработчик PRO</td>
+    <td>ООО «Скилбокс»</td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>Network Technology Standards</td>
+    <td>South Kazakhstan State University (SKSU)</td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>Database management system</td>
+    <td>South Kazakhstan State University (SKSU)</td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>Unity Learn - Junior unity programmer</td>
+    <td>Unity Technology</td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Software architecture and design</td>
+    <td>University Putra Malaysia (UPM)</td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>Basics algorithms and data structures</td>
+    <td>South Kazakhstan State University (SKSU)</td>
+  </tr>
+</table>
 
 ###
 
