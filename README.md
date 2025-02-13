@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="right">If a problem can be solved, there is no need to worry about it. If it cannot be solved, then worrying is useless.</h4>
+<p align="right">If a problem can be solved, there is no need to worry about it. If it cannot be solved, then worrying is useless.</p>
 
 ###
 
