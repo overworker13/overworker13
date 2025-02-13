@@ -31,4 +31,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN:  "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"
+          GITHUB_TOKEN: # "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"
