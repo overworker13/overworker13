@@ -6,7 +6,8 @@
 
 ###
 
-<h3 align="left" style="margin-right:40px">If a problem can be solved, there is no need to worry about it. If it cannot be solved, then worrying is useless.</h3>
+<h3 style="display: inline-block; margin-right: 40px;">If a problem can be solved, there is no need to worry about it. If it cannot be solved, then worrying is useless.</h3>
+
 
 ###
 
