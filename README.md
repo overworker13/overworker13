@@ -108,7 +108,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/overworker13/count.svg?"  />
+  <img src="https://github.com/overworker13/overworker13/Snake.svg"  />
 </div>
 
 ###
