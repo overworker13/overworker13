@@ -53,7 +53,7 @@
   </tr>
     <tr>
     <td>2024</td>
-    <td>ABLE Academy: Web-разработчик PRO</td>
+    <td>ABLE Academy: Web-разработчик</td>
     <td>ТОО "ЭЙБЛ БИЗНЕС ИННОВЕЙШНС"</td>
   </tr>
   <tr>
