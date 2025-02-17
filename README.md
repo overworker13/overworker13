@@ -51,6 +51,11 @@
     <th>Course name</th>
     <th>Company</th>
   </tr>
+    <tr>
+    <td>2024</td>
+    <td>ABLE Academy: Web-разработчик PRO</td>
+    <td>ТОО "ЭЙБЛ БИЗНЕС ИННОВЕЙШНС"</td>
+  </tr>
   <tr>
     <td>2023</td>
     <td>SkillBox - Профессия Frontend-разработчик PRO</td>
