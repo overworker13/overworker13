@@ -51,6 +51,16 @@
     <th>Course name</th>
     <th>Company</th>
   </tr>
+  <tr>
+    <td>2025</td>
+    <td>Udemy: Next.js 15 & React Maximilian Schwarzmüller</td>
+    <td>Udemy Inc</td>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>SkillBox - Fullstack разработчик на JavaScript</td>
+    <td>ООО «Скилбокс»</td>
+  </tr>
     <tr>
     <td>2024</td>
     <td>ABLE Academy: Web-разработчик</td>
@@ -117,3 +127,4 @@
 </div>
 
 ###
+
