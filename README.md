@@ -32,19 +32,13 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" title="TypeScript" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="48" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" title="Next.js" style="filter: invert(1);" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="48" title="Nuxt.js" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" title="HTML5" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" title="CSS3" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="48" title="Sass" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" title="Bootstrap" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="48" title="Unity" />
 </div>
 
 <br>
