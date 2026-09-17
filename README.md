@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&weight=400&size=14&duration=3200&pause=1000&color=9D7BEA&center=true&vCenter=true&width=560&lines=Frontend+Mage+Lv.24;Vue.js+%E2%9A%94+React+%E2%9A%94+Next.js;Debug+mode%3A+always+on" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&weight=400&size=14&duration=3200&pause=1000&color=9D7BEA&center=true&vCenter=true&width=560&lines=Frontend+/+FullStack+Developer;Vue.js+%E2%9A%94+React+%E2%9A%94+Next.js;Debug+mode%3A+always+on" alt="Typing SVG" />
 </div>
 
 <div align="center"><sub>☆*: .｡. o(≧▽≦)o .｡.:*☆</sub></div>
